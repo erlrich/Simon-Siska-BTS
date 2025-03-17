@@ -1,0 +1,14 @@
+Copyright (C) 2025 Dinzo.
+All rights reserved.
+
+This software is licensed under a dual-license model:
+
+1. **Personal Use License (CC BY-NC 4.0)**
+   - This code can be used, modified, and shared for personal, non-commercial purposes.
+   - Attribution is required.
+
+2. **Commercial Use License**
+   - Any commercial use (selling, distributing in paid software, or integrating into a business) requires a separate license.
+   - For commercial licensing, contact: [achmad.amrulloh@gmail.com]
+
+Unauthorized commercial use is strictly prohibited.
