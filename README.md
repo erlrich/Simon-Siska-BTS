@@ -16,7 +16,6 @@ Simon SISKA is an IoT-based security system designed to monitor and detect unaut
 2. System activates alarms (siren, LED, and voice/audio).
 3. ESP32-CAM captures an image and saves it.
 4. Event data and image logs are sent to a MySQL server.
-5. *(Planned)*: Send alert to Telegram or web admin panel.
 
 ## 🛠️ Implementation & Results
 - **PIR Sensor** detects motion up to 4.5 meters.
